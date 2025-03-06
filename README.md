@@ -1,4 +1,4 @@
-# MapUp - Analytics Dashboard Assessment
+# Screening Test – Summer Internship under Dr. Abhijit Chandra - Analytics Dashboard Assessment
 
 ## Overview
 
@@ -24,7 +24,7 @@ The Electric Vehicle Population dataset is available in the [Electric Vehicle Po
 - Deploy your frontend dashboard to a hosting platform of your choice.
 - Make sure the dashboard is publicly accessible.
 
-## Evaluation Criteria
+## Evaluation
 
 Your submission will be evaluated based on:
 
@@ -39,7 +39,5 @@ Your submission will be evaluated based on:
 - Deploy the dashboard to a hosting platform.
 - Update this [README.md](README.md) file with the URL to your live dashboard.
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
-  - vedantp@mapup.ai
-  - ajayap@mapupa.ai
-  - divyanshs@mapup.ai
+  - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
